@@ -4,8 +4,6 @@
 I'm developing Desktop GUI softwares in **PyQt**.
 Currently, I am working on **Autonomous Mobile Robots** and **Automated Guided Vehicles**.
 
-![a](https://user-images.githubusercontent.com/78825912/181377829-9857bc02-5846-457a-8862-db6565c1743b.jpg)
-
 
 
 ## Skills:
