@@ -2,7 +2,7 @@
 
 
 I'm developing Desktop GUI softwares in **PyQt**.
-Currently, I am working on **Autonomous Mobile Robots** and **Automated Guided Vehicles**.
+Currently, I am working on **Computer Vision Applications**.
 
 
 
