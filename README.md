@@ -1,4 +1,4 @@
-### *Hi there I'm Sema* ![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/78825912/181375979-6fa7fc4c-0c22-4896-89b8-cbe1d19e14de.gif)
+### ![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/78825912/181375979-6fa7fc4c-0c22-4896-89b8-cbe1d19e14de.gif) *Hi there I'm Sema*
 
 
 I'm developing Desktop GUI softwares in **PyQt**.
