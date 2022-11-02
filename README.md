@@ -3,11 +3,10 @@
 <p align="center">
 
  <img src="https://komarev.com/ghpvc/?username=semaegrii" alt="semaegrii"/> <a href="https://github.com/semaegrii/semaegrii/pulse" alt="Activity"><img src="https://img.shields.io/github/commit-activity/m/semaegrii/semaegrii"/></a></a>
+    <img src="https://img.shields.io/badge/language-python-blue?style"></a> 
     <a href="https://github.com/semaegrii?tab=followers"><img alt="Followers" src="https://img.shields.io/github/followers/semaegrii?color=4C1&logo=github"></a>
     <a href="https://github.com/semaegrii/semaegrii" target="_blank"><img alt="Profile_Update" src="https://img.shields.io/github/last-commit/semaegrii/semaegrii?label=Profile%20update&style=fflat-square"></a>
-
-
-
+   
 > Don't count the days, make the days count.
    <sub>Muhammad Ali</sub>
 
