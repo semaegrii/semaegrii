@@ -2,10 +2,10 @@
 <img src='https://user-images.githubusercontent.com/78825912/199567270-591cbc68-4d66-4234-86ce-7ab86d3da558.png' alt='girl_hijab' height='200'>
 <p align="center"><p align="center">
    
- <img src="https://komarev.com/ghpvc/?username=semaegrii" alt="semaegrii"/> <a href="https://github.com/semaegrii/semaegrii/pulse" alt="Activity"><img src="https://img.shields.io/github/commit-activity/m/semaegrii/semaegrii"/></a></a>
+ <img src="https://komarev.com/ghpvc/?username=semaegrii" alt="semaegrii"/> <a href="https://github.com/semaegrii/semaegrii/pulse" alt="Activity">
     <img src="https://img.shields.io/badge/language-python-blue?style"></a> 
-    <a href="https://github.com/semaegrii?tab=followers"><img alt="Followers" src="https://img.shields.io/github/followers/semaegrii?color=4C1&logo=github"></a>
     <a href="https://github.com/semaegrii/semaegrii" target="_blank"><img alt="Profile_Update" src="https://img.shields.io/github/last-commit/semaegrii/semaegrii?label=Profile%20update&style=fflat-square"></a>
+   
  <img src="https://github-readme-stats.vercel.app/api?username=semaegrii&show_icons=true&theme=gotham" alt="semaegrii" />  
 
 > Don't count the days, make the days count.
