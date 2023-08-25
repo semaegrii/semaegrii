@@ -15,16 +15,8 @@
 
 
 ## Skills:
-
-
-[<img src='https://user-images.githubusercontent.com/78825912/199561294-7f293827-66fb-42c9-9503-b12889de8ea8.png' alt='pi' height='80'>](https://www.raspberrypi.org/)
-[<img src='https://user-images.githubusercontent.com/78825912/199560789-0c202f39-caad-4f9c-8f2f-ce3d17311e0d.png' alt='opencv' height='60'>](https://opencv.org/)
-[<img src='https://user-images.githubusercontent.com/78825912/199557760-21e877f9-f182-4967-b4c4-d0fcb3f35af7.png' alt='cmake' height='50'>](https://cmake.org/)
-[<img src='https://user-images.githubusercontent.com/78825912/199564000-32c0246f-35cd-40ec-a97e-e400270426ba.png' alt='qt' height='46'>](https://www.qt.io/)      
-  [<img src='https://user-images.githubusercontent.com/78825912/199562344-2f16a174-1f16-4764-ab8a-aad7067ff6b9.png' alt='python' height='50'>](https://www.python.org/)
-[<img src='https://user-images.githubusercontent.com/78825912/199563197-02830416-1346-41a0-8b5a-f7f094a77c98.png' alt='ros' height='42'>](https://www.ros.org/)
-
-
+ 
+<p align="left"></a> <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="python" width="40" height="40"/> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a> <a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"> <img src="https://elinux.org/images/c/cb/Raspberry_Pi_Logo.svg" alt="pi" width="40" height="40"/><a href="https://www.riverbankcomputing.com/static/Docs/PyQt5/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/e/e6/Python_and_Qt.svg" alt="pyqt" width="40" height="40"/> </a></a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
 
 
