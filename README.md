@@ -4,7 +4,7 @@
    
  <img src="https://komarev.com/ghpvc/?username=semaegrii" alt="semaegrii"/> <a href="https://github.com/semaegrii/semaegrii/pulse" alt="Activity">
     <img src="https://img.shields.io/badge/language-python-blue?style"></a> 
-    <a href="https://github.com/semaegrii/semaegrii" target="_blank"><img alt="Profile_Update" src="https://img.shields.io/github/last-commit/semaegrii/semaegrii?label=Profile%20update&style=fflat-square"></a>
+    <a href="https://github.com/semaegrii/semaegrii" target="_blank">
    
  <!--img src="https://github-readme-stats.vercel.app/api?username=semaegrii&show_icons=true&theme=gotham" alt="semaegrii"/-->  
 
